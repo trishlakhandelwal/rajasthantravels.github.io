@@ -43,10 +43,10 @@
 </head>
 <body>
 <div class="nav">
-		<a href="PHP/home.php">Home</a>
-		<a href="PHP/login.php">LogIn</a>
-		<a href="PHP/register.php">Register</a>
-		<a href="PHP/about.php">About Us</a>
+		<a href="home.php">Home</a>
+		<a href="login.php">LogIn</a>
+		<a href="register.php">Register</a>
+		<a href="about.php">About Us</a>
 	</div>
 <div class="frame">
 
