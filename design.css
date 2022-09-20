@@ -1,0 +1,153 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: century Gothic;
+	
+}
+header{
+	background-image:url(001.jpg);
+	height: 690px;
+	background-size: cover;
+	background-position: center;
+}
+ul{
+	float:left;
+	list-style-type:none;
+	margin-top:25px;
+	font-size:25px;
+	font-weight:bold;
+	
+	
+}
+.main3 a{
+text-decoration: none;
+	color: black;
+	padding: 5px 20px;
+	border: 1px solid transparent;	
+	transition:0.6s ease;
+	list-style-type:none;
+	margin-left:15px;
+	font-size:15px;
+	font-weight:bold;
+}
+ul li{
+	display: inline-block;
+	
+}
+ul li a{
+	text-decoration: none;
+	color: black;
+	padding: 5px 20px;
+	border: 1px solid transparent;	
+	transition:0.6s ease;
+}
+
+ul li a:hover{
+	background-color:#fff;
+	color:black;
+}
+
+ul li .active a{
+	background-color:#fff;
+	color:black;
+}
+.main{
+	max-width:1200px;
+	margin: auto;
+}
+.title{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
+.title h1{
+	font-size:50px;
+	color:white;
+}
+.dropdown{
+	position:relative;
+	display
+}
+.button{
+	position:absolute;
+	top:60%;
+	left:50%;
+	transform: translate(-50%,-50%);
+	font-size:30px
+}
+.btn{
+	background-color:none;
+	border:1px solid #fff;
+	padding:10px 30px;
+	text-decoration:none;
+	transition:0.6s ease;
+	color:#fff;
+}
+.btn:hover{
+	background-color:#fff;
+	color:black;
+}
+.hell{
+	padding:20px;
+}
+.bttn{
+	text-decoration:none;
+	margin-right:1200px;
+	margin-bottom:50px;
+	color:#fff;
+}
+
+.main3{
+	max-width:1200px;
+	
+}
+.main3 ul{
+	display:inline-block;
+}
+.hello{
+	height:300px;
+	width:100%;
+	background-color:orange;
+	position:relative;
+	margin-top:30px;
+	background-size:cover;
+	background-position: center;
+}
+.pic{
+	margin-left:20%;
+}
+h2{
+	font-size:50px;
+	font-family:;
+	color:blue;
+	text-align:center;
+}
+.places{
+	margin-top:30px;
+	background-color:#f5f5f5;
+}
+.des1{
+	margin-left:20%;
+	margin-top:25px;
+	
+}
+.des1 h3{
+	font-size:20px;
+	font-family:sans-serif;
+	display:inline;
+}
+
+.hello h4{
+	font-size:30px;
+	font-family:;
+	color:blue;
+	margin-left:10px;
+}
+
+.hello h5{
+	font-size:20px;
+	font-family:;
+	color:blue;
+	margin-left:10px;
+}

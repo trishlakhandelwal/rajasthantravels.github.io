@@ -1,0 +1,70 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-size: 120%;
+  background-image:url("register.jpg");
+  background-size:cover;
+  background-repeat:none;
+}
+
+.header {
+  width: 30%;
+  margin: 50px auto 0px;
+  color: white;
+  background:maroon;
+  text-align: center;
+  border: 1px solid black;
+  border-bottom: none;
+  border-radius: 10px 10px 0px 0px;
+  padding: 20px;
+}
+form, .content {
+  width: 30%;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid #B0C5CE;
+  background: white;
+  border-radius: 0px 0px 10px 10px;
+}
+.input-group {
+  margin: 10px 0px 10px 0px;
+}
+.input-group label {
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+.input-group input {
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 3px solid gray;
+}
+.btn {
+  padding: 10px;
+  font-size: 20px;
+  color: white;
+  background:maroon;
+  border: none;
+  border-radius: 5px;
+}
+.error {
+  width: 92%; 
+  margin: 0px auto; 
+  padding: 10px; 
+  border: 2px solid black; 
+  color: black; 
+  background: lightpink; 
+  border-radius: 5px; 
+  text-align: left;
+}
+.success {
+  color:green; 
+  background:lightblue; 
+  border: 4px double black;
+  margin-bottom: 20px;
+}
