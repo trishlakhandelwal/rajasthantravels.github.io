@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>bikaner</title>
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="CSS/style.css">
 <script>
 	function show()
 	{
@@ -43,10 +43,10 @@
 </head>
 <body>
 <div class="nav">
-		<a href="home.php">Home</a>
-		<a href="login.php">LogIn</a>
-		<a href="register.php">Register</a>
-		<a href="about.php">About Us</a>
+		<a href="PHP/home.php">Home</a>
+		<a href="PHP/login.php">LogIn</a>
+		<a href="PHP/register.php">Register</a>
+		<a href="PHP/about.php">About Us</a>
 	</div>
 <div class="frame">
 
@@ -59,7 +59,7 @@
 <h2>01 Junagarh Fort</h2>
 
 <div class="container">
-	<img class="slides" src="junagarh fort.jpg" height="350px" width="100%">
+	<img class="slides" src="images/junagarh fort.jpg" height="350px" width="100%">
 </div><br><br>
 
 <div class="content">
@@ -77,7 +77,7 @@ According to historical records, the fort has withstood several attacks and has 
 <h2>	02 Karni Mata Temple<br></h2>
 
 <div class="container">
-	<img class="slides" src="karni mata temple.jpg" height="350px" width="100%">
+	<img class="slides" src="images/karni mata temple.jpg" height="350px" width="100%">
 </div><br><br>
 
 <div class="content">
@@ -100,7 +100,7 @@ Karni Mata Temple is solemnly and staunchly dedicated to Karni Mata located at D
 <h2>	03 Lalgarh palace<br></h2>
 
 <div class="container">
-	<img class="slides" src="lalgarh palace.jpg" height="350px" width="100%">
+	<img class="slides" src="images/lalgarh palace.jpg" height="350px" width="100%">
 </div><br><br>
 
 <div class="content">
@@ -122,7 +122,7 @@ A palace in Bikaner, Lalgarh Palace is located in Rajasthan which was originally
 <h2>	04 Gajner Lake<br></h2>
 
 <div class="container">
-	<img class="slides" src="gajner lake.jpg" height="350px" width="100%">
+	<img class="slides" src="images/gajner lake.jpg" height="350px" width="100%">
 </div><br><br>
 
 <div class="content">
