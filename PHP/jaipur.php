@@ -1,7 +1,7 @@
 <HTML>
 <head>
 <title>jaipur</title>
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="CSS/style.css">
 <script>
 	function show()
 	{
@@ -67,7 +67,7 @@
 	</div>
 	
 
-	<div class="left" style="background-image:url(Hawa_Mahal.jpg);">
+	<div class="left" style="background-image:url(/../rajasthantravels.github.io/images/Hawa_Mahal.jpg);">
 	</div>
 	
 	<div class="center">
@@ -102,7 +102,7 @@
 <h2>01 CITY PALACE</h2>
 
 <div class="container">
-	<img class="slides" src="CITY PALACE.jpg" height="350px" width="100%">
+	<img class="slides" src="images/CITY PALACE.jpg" height="350px" width="100%">
 </div><br><br>
 
 <div class="content">
@@ -120,7 +120,7 @@ The construction of the palace was started by Maharaja Sawai Jai Singh II of Amb
 <h2>	02 ALBERT MUSEUM<br></h2>
 
 <div class="container">
-	<img class="slides" src="Albert-Hall.jpg.jpg" height="350px" width="100%">
+	<img class="slides" src="images/Albert-Hall.jpg.jpg" height="350px" width="100%">
 </div><br><br>
 
 <div class="content">
@@ -134,7 +134,7 @@ Constituted to be one of the oldest historical museums in Rajasthan, Albert Hall
 <h2>	03 AMBER(AMER) FORT AND PALACE<br></h2>
 
 <div class="container">
-	<img class="slides" src="AMBERFORT.jpg" height="350px" width="100%">
+	<img class="slides" src="images/AMBERFORT.jpg" height="350px" width="100%">
 </div><br><br>
 
 <div class="content">
@@ -153,7 +153,7 @@ The Amer Palace served as the royal residence of Rajput Maharajas and their fami
 <h2>	04 HAWA MAHAL<br></h2>
 
 <div class="container">
-	<img class="slides" src="Hawa_Mahal.jpg" height="350px" width="100%">
+	<img class="slides" src="images/Hawa_Mahal.jpg" height="350px" width="100%">
 </div><br><br>
 
 <div class="content">
@@ -186,7 +186,7 @@ the front of the palace, but in reality it is the back of that structure.
 <h2>	05 NAHARGARH<br></h2>
 
 <div class="container">
-	<img class="slides" src="Nahargarh.jpg" height="350px" width="100%">
+	<img class="slides" src="images/Nahargarh.jpg" height="350px" width="100%">
 </div><br><br>
 
 <div class="content">
@@ -211,7 +211,7 @@ The popular belief is that Nahar herestands for Nahar Singh Bhomia, whose spirit
 <h2>	06 JAL MAHAL<br></h2>
 
 <div class="container">
-	<img class="slides" src="Jal_Mahal.jpg.jpg" height="350px" width="100%">
+	<img class="slides" src="images/Jal_Mahal.jpg.jpg" height="350px" width="100%">
 </div><br><br>
 
 <div class="content">
@@ -234,7 +234,7 @@ The Jal Mahal palace is an architectural showcase of the Rajput style of archite
 <h2>	07 BIRLA TEMPLE<br></h2>
 
 <div class="container">
-	<img class="slides" src="birlamandir.jpg" height="350px" width="100%">
+	<img class="slides" src="images/birlamandir.jpg" height="350px" width="100%">
 </div><br><br>
 
 <div class="content">
@@ -266,7 +266,7 @@ Laxmi Narayan Temple.<br><br>
 	<h2>	08 JANTAR MANTAR OBSERVATORY<br></h2>
 
 <div class="container">
-	<img class="slides" src="Jantarmantar.jpg" height="350px" width="100%">
+	<img class="slides" src="images/Jantarmantar.jpg" height="350px" width="100%">
 </div><br><br>
 
 <div class="content">

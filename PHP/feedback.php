@@ -1,7 +1,7 @@
 <html>
 <head>
   <title> FEEDBACK FORM</title>
-  <link rel="stylesheet" type="text/css" href="feed.css">
+  <link rel="stylesheet" type="text/css" href="CSS/feed.css">
  </head> 
  <body>
     <div class="title">
