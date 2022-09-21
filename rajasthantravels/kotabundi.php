@@ -1,0 +1,233 @@
+<html>
+<head>
+<title>kota bundi</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+<script>
+	function show()
+	{
+		var x=document.getElementById("1");
+		if(x.style.display==="none")
+			x.style.display="block";
+		else
+			x.style.display="none";
+	}
+	
+	function show2()
+	{
+		var x=document.getElementById("2");
+		if(x.style.display==="none")
+			x.style.display="block";
+		else
+			x.style.display="none";
+	}
+	
+	function show3()
+	{
+		var x=document.getElementById("3");
+		if(x.style.display==="none")
+			x.style.display="block";
+		else
+			x.style.display="none";
+	}
+	
+	function show4()
+	{
+		var x=document.getElementById("4");
+		if(x.style.display==="none")
+			x.style.display="block";
+		else
+			x.style.display="none";
+	}
+	function show5()
+	{
+		var x=document.getElementById("5");
+		if(x.style.display==="none")
+			x.style.display="block";
+		else
+			x.style.display="none";
+	}
+	function show6()
+	{
+		var x=document.getElementById("6");
+		if(x.style.display==="none")
+			x.style.display="block";
+		else
+			x.style.display="none";
+	}
+	function show7()
+	{
+		var x=document.getElementById("7");
+		if(x.style.display==="none")
+			x.style.display="block";
+		else
+			x.style.display="none";
+	}
+	
+</script>
+</head>
+<body>
+<div class="nav">
+		<a href="home.php">Home</a>
+		<a href="login.php">LogIn</a>
+		<a href="register.php">Register</a>
+		<a href="about.php">About Us</a>
+	</div>
+<div class="frame">
+
+<h1>KOTA AND BUNDI</h1>
+<div class="map">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d461369.30528756295!2d75.78083947283989!3d25.38982046377342!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396f9b30c41bb44d%3A0x5f5c103200045588!2sKota%2C+Rajasthan!5e0!3m2!1sen!2sin!4v1554127500925!5m2!1sen!2sin" width="100%" height="100%" position="absolute" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+</div>
+
+<h1> PLACES TO VISIT</h1>
+<h2>01 City Fort Palace</h2>
+
+<div class="container">
+	<img class="slides" src="City_Palace_.jpg" height="350px" width="100%">
+</div><br><br>
+
+<div class="content">
+The City Fort Palace is situated near the Kota Barrage and overlooks the beautiful Chambal River. The City Fort Palace has a museum which contains an impressive collection of artefacts belonging to the Kota rulers. The main entrance to the City Fort Palace is through the Naya Darwaza. The Maharao Madho Singh Museum lies to the right of the City Fort complex. The Maharao Madho Singh Museum has a very interesting collection of frescoes, miniature paintings, armoury and artistic items owned by the Kota rulers.
+
+<br><br></div>
+
+<div class="content" id="1" style="display:none;">
+The City Fort Palace is a must-visit for those interested in architecture, heritage and history. Overlooking the River Chambal, the city Fort Palace is a beautiful monument in Kota.
+
+
+</div>
+
+<button class="btn" type="button" onclick="show()">Show more/less</button>
+<br><br>
+
+<h2>02 Jagmandir Palace</h2>
+
+<div class="container">
+	<img class="slides" src="jagmandir.jpg" height="350px" width="100%">
+</div><br><br>
+
+<div class="content">
+The Jagmandir Palace is another one of the tourist attractions in Kota. The Jagmandir Palace was built by one of the queens of Kota in 1740 and is situated in the middle of the Kishore Sagar Lake. The Kishore Sagar Lake is an artificial lake and is well known for its scenic beauty.
+
+<br><br></div>
+
+<div class="content" id="2" style="display: none;">
+It was built by Prince Dehra Deh of Bundi in 1346 AD. Built in red sandstone, the Jagmandir Palace is a monument of exquisite beauty and boasts of architectural excellence. The palace served as a pleasure palace for the kings of Kota.
+
+Today, the palace is open to tourists and they can enjoy boat rides in the Kishore Sagar Lake and enjoy the panoramic view of the palace and its surroundings from the lake. The Keshar Bagh is also situated near the Jagmandir Palace and is well known for its royal cenotaphs.
+
+</div>
+
+<button class="btn" type="button" onclick="show2()">Show more/less</button>
+<br><br>
+
+<h2>03 Garadia Mahadev Temple</h2>
+
+<div class="container">
+	<img class="slides" src="garadia.jpg " height="350px" width="100%">
+</div><br><br>
+
+<div class="content">
+Garadia Mahadev Temple is located at around five hundred feet at an ordain distance from the sea level near the gorge through which the Chambal river flows. On either side of the temple lies colossally huge gigantic cliffs. 
+The sway of the wind seems to a symbolic Shiv sutras into the ears of the devotees that eventually arouse them. Most of the rituals in this temple are carried on by the local pundits who generally reside in the shrine till 5.30 pm.
+
+<br><br></div>
+
+<div class="content" id="3" style="display: none;">
+<b>Distance or location:</b> Garadia Mahadev Temple is located at Garadia Mahadev Road in Daulatganj, Dabi, Rajasthan.<br><br>
+
+<b>Best time to visit:</b> The ideal time to visit Garadia Mahadev Temple during the winter time in between October to March.<br><br>
+
+<b>Charges:</b> There is no entry fee.<br><br>
+
+</div>
+
+<button class="btn" type="button" onclick="show3()">Show more/less</button>
+<br><br>
+
+<h2>04 Chambal Garden</h2>
+
+<div class="container">
+	<img class="slides" src="chambal garden.jpg" height="350px" width="100%">
+</div><br><br>
+
+<div class="content">
+The Chambal Garden is situated on the banks of the River Chambal. The River Chambal is one of the major tourist attractions of the city of Kota. A number of palaces and temples are built on its banks and are a major draw for tourists from all over the country and the world.
+
+<br><br></div>
+
+<div class="content" id="4" style="display: none;">
+The Chambal Gardens are famous for its well-manicured layout and are frequented by locals and tourists throughout the year. The Chambal Garden has a beautiful pond in the centre which is replete with gharials. The Chambal Gardens also had muggers in the pool earlier. The pond can be crossed using a suspension bridge or a boat. A boat ride enables visitors to view these fish-eating reptiles from close quarters.
+
+</div>
+
+<button class="btn" type="button" onclick="show4()">Show more/less</button>
+<br><br>
+
+<h2>05 Taragarh Fort</h2>
+
+<div class="container">
+	<img class="slides" src="taragarh fort.jpg" height="350px" width="100%">
+</div><br><br>
+
+<div class="content">
+One of the best tourist places to visit in Rajasthan is the Taragarh Fort or the Star Fort in Bundi. The fort was constructed in 1534 AD on a hillside. The fort has three gateways called the Laxmi Pol, the Phuta Darwaza and Gagudi ki Phatak. Today, most parts of the fort are in a dilapidated condition. However, it still looks majestic and is the most impressive monument in Bundi.
+
+<br><br></div>
+
+<div class="content" id="5" style="display: none;">
+During earlier times, the Taragarh Fort had a number of tunnels running through the entire hill. These tunnels have now been closed for want of maps. The fort had impressive battlements, the largest of them being the Bhim Burj, on which were mounted huge cannon balls called the Garbh Gunjam.
+
+The fort also has huge water reservoirs, which were built to cater to the water requirements of the residents of the city. The other major attraction of the Taragarh Fort is the Rani Mahal, which served as a harem for the wives and concubines of the rulers. The fort also has Miran Saheb ki Dargah.
+
+</div>
+
+<button class="btn" type="button" onclick="show5()">Show more/less</button>
+<br><br>
+
+<h2>06 Badal Mahal </h2>
+
+<div class="container">
+	<img class="slides" src="badalmahal.jpg" height="350px" width="100%">
+</div><br><br>
+
+<div class="content">
+Badal Mahal is situated within the Taragarh Fort. The beautiful palace is known for its architectural grandeur and its beautiful paintings and murals. The palace is a major tourist attraction in Bundi and attracts a large number of domestic and foreign tourists because of its exquisite paintings. The paintings and murals of Badal Mahal are of particular interest as they depict the influence of China and Chinese culture on this little town.
+
+<br><br></div>
+
+<div class="content" id="6" style="display: none;">
+Opium, which was grown in Bundi and traded to China, was the connecting factor between the town and China. The paintings depict the faces, flowers and the general life of the people, and effectively portray the richness of life during those days.
+
+</div>
+
+<button class="btn" type="button" onclick="show6()">Show more/less</button>
+<br><br>
+
+<h2>07 Step Well of Bundi</h2>
+
+<div class="container">
+	<img class="slides" src="stepwell.jpg" height="350px" width="100%">
+</div><br><br>
+
+<div class="content">
+Bundi is best known for its step wells. These step wells, called Baoris in the local language, were the only source of water for the people of the region, till piped water was provided. There are more than 50 step wells in the region, but only a very few have been maintained.
+
+<br><br></div>
+
+<div class="content" id="7" style="display: none;">
+Most people abandoned the step wells after piped water was introduced and this resulted in their dilapidation. Some of these step wells unfortunately are now being used as dumpsters. The step wells of Bundi boast of exquisite beauty and architectural excellence. Several rich people constructed magnificent tanks and step wells and attached religious significance to the tanks. These people were considered to be noble and won the respect of the commoners.
+
+</div>
+
+<button class="btn" type="button" onclick="show7()">Show more/less</button>
+<br><br>
+
+</div>
+
+<div class="footer">
+
+</div>
+
+</body></html>
