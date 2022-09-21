@@ -5,7 +5,7 @@
 	
 }
 header{
-	background-image:url("/images/001.jpg");
+	background-image:url(/images/001.jpg);
 	height: 690px;
 	background-size: cover;
 	background-position: center;
