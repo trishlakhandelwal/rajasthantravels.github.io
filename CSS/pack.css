@@ -75,7 +75,7 @@
 		float:left;
 		margin:10px;
 		word-spacing:4px;
-		margin-left:50px;
+		margin-left:50vh;
 		border:1px solid black; 
 		box-sizing:border-box;
 		background-color:white;
@@ -89,7 +89,7 @@
 		height:400px;
 		float:left;
 		margin:10px;
-		margin-left:100px;
+		margin-left:100vh;
 		border:1px solid black;
 		box-sizing:border-box;
 		background-color:white;
@@ -103,8 +103,8 @@
 		height:400px;
 		float:right;
 		margin:10px;
-		margin-right:50px;
-		margin-bottom:50px;
+		margin-right:50vh;
+		margin-bottom:50vh;
 		border:1px solid black;
 		box-sizing:border-box;
 		background-color:white;
@@ -117,10 +117,10 @@
 		box-shadow:10px 10px chocolate;
 		height:400px;
 		float:left;
-		margin-top:20px;
-		margin-left:50px;
+		margin-top:20vh;
+		margin-left:50vh;
 		border:1px solid black;
-		margin-bottom:50px;
+		margin-bottom:50vh;
 		background-color:white;
 	}
 	
@@ -131,9 +131,9 @@
 		box-shadow:10px 10px chocolate;
 		height:400px;
 		float:left;
-		margin-top:20px;
-		margin-left:100px;
-		margin-bottom:50px;
+		margin-top:20vh;
+		margin-left:100vh;
+		margin-bottom:50vh;
 		border:1px solid black;
 		background-color:white;
 	}
@@ -145,9 +145,9 @@
 		box-shadow:10px 10px chocolate;
 		height:400px;
 		float:right;
-		margin-bottom:50px;
-		margin-top:20px;
-		margin-right:50px;
+		margin-bottom:50vh;
+		margin-top:20vh;
+		margin-right:50vh;
 		border:1px solid black;
 		background-color:white;
 	}
