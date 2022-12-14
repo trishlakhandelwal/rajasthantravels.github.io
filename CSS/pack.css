@@ -41,6 +41,19 @@
 	.pic{
 		margin-left:15%;
 	}
+
+	.container {
+      width: 70%;
+      background: #eee;
+      margin: 10px auto;
+      position: relative;
+      text-align:center;
+    }
+
+    .col{
+    background-size: cover;
+    background-position: center;
+    }
 	
 	.main{
 		width:98.5%;
