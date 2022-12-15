@@ -44,7 +44,6 @@
 
 	.container {
       width: 70%;
-      background: #eee;
       margin: 10px auto;
       position: relative;
       text-align:center;
@@ -53,6 +52,12 @@
     .col{
     background-size: cover;
     background-position: center;
+    text-align:center;
+    box-shadow:10px 10px chocolate;
+    border:1px solid black;
+    box-sizing:border-box;
+    background-color:white;
+
     }
 	
 	.main{
